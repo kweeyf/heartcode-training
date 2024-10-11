@@ -74,7 +74,7 @@ const features = [
   {
     name: "Keane",
     description:
-      "I’m passionate about computing and love exploring new tech, especially when it comes to solving problems. Outside of that, I enjoy spending time in the kitchen,experimenting with new recipes",
+      "I’m passionate about computing and love exploring new tech, especially when it comes to solving problems. Outside of that, I enjoy spending time with my pets",
     href: "/",
     cta: "Learn more",
     background: (
