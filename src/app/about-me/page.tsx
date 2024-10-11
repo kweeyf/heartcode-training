@@ -139,8 +139,8 @@ const features = [
   {
     name: "Taro",
     description: "",
-    // href: "/",
-    // cta: "Learn more",
+    href: "/",
+    cta: "Learn more",
     background: (
         <Image
           src={taro}
