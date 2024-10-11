@@ -173,8 +173,8 @@ const features = [
 export default function BentoDemo() {
   return (
     <BentoGrid className="lg:grid-cols-3 lg:grid-rows-3 gap-4 p-6">
-      {features.map((feature) => (
-        <BentoCard key={feature.name} {...feature} />
+      {features.map((feature,idx) => (
+        <BentoCard key={idx} {...feature} />
       ))}
     </BentoGrid>
   );
